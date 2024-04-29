@@ -1,0 +1,21 @@
+body{
+    background-color: #FFF1E5 !important;
+}
+.one{
+color: #F857A6;
+ }
+.onee{
+    font-size: 72px !important;
+}
+.oneee{
+color: black;
+font-size: 150% !important;
+opacity: 0.5;
+}
+@media screen and (max-width:500px){
+    .onee{
+        font-size: 42px !important;
+       
+    }
+    
+}
